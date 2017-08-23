@@ -1,2 +1,2 @@
-Git is a version cotrol system.
+Git is a distributed  version cotrol system.
 Gis is free software.
